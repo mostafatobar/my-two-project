@@ -1,0 +1,52 @@
+
+.mySlides .fade {
+  flex-direction: column;
+  border: 2px solid rgb(34, 0, 255);
+}
+.mySlides .fade .text h2 {
+  font-size: 30px;
+  border: 2px solid rgb(34, 0, 255);
+} 
+
+
+
+.box .contan {
+  flex-direction: column;
+  border: 2px solid rgb(34, 0, 255);
+}
+.box .contan .boxs {
+  flex-direction: column;
+  max-width: 50%;
+  margin-top: 30px;
+  border: 2px solid rgb(34, 0, 255);
+}
+.box .contan .boxs .text h2 {
+  font-size: 20px;
+  border: 2px solid rgb(34, 0, 255);
+}
+
+
+.shoping .imgsel {
+  flex-direction: column;
+}
+.shoping .imgsel .text h2{
+  font-size: 18px;
+}
+
+
+
+.Interior .text{
+  max-width: 100%;
+  margin: 0 30px;
+  position: absolute;
+  top: 50%;
+  right: 0;
+}
+
+.testimonial .contan{
+  display: flex;
+  flex-direction: column;
+}
+.new .contan .newimg{
+  flex-direction: column;
+}
